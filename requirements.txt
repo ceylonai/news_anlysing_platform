@@ -1,1 +1,4 @@
 ceylon
+requests
+beautifulsoup4
+motor
